@@ -1,8 +1,8 @@
-#Sobre o projeto Spotify: 
+# Sobre o projeto Spotify: 
 
 Recriei uma pagina inicial de uma versão “antiga” do Spotify. Com intuito de aplicar e aprimorar as minhas habilidades utilizando o Bootstrap. 🌱
 
-#Alguns detalhes da recriação :
+# Alguns detalhes da recriação :
 
 - Contém uma área header fixada no topo que se adapta tanto para dispositivos desktop quanto para mobile. 📍
 
@@ -11,7 +11,7 @@ Recriei uma pagina inicial de uma versão “antiga” do Spotify. Com intuito d
 - A recriação contém um design responsivo que se adapta para dispositivos desktop e mobile. 
 💻📲
 
-#🛠️ Ferramentas utilizadas:
+# 🛠️ Ferramentas utilizadas:
 
 - BOOTSTRAP
 - HTML5
